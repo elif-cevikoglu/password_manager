@@ -1,0 +1,4 @@
+cryptography==45.0.5
+Pillow==11.3.0
+Requests==2.32.4
+stegano==2.0.0
